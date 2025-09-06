@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_map.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/03 23:24:39 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/03 23:24:43 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 03:54:49 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 03:54:51 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include <stdlib.h>
 /* #include <stdio.h>

@@ -3,13 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_foreach.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/03 23:03:31 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/03 23:03:34 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 03:54:35 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 03:55:08 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-/* 
+
+
 #include <unistd.h>
 
 void	ft_putchar(char c)
@@ -35,7 +36,7 @@ void	ft_putnbr(int nb)
 		ft_putnbr(n / 10);
 		ft_putnbr(n % 10);
 	}
-} */
+} 
 
 // This function receives the pointer of putnbr function as a parameter
 void	ft_foreach(int *tab, int length, void (*f)(int))
