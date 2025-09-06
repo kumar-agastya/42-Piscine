@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_list_find.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <wcorrea-@student.42.fr>          +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/04 15:39:02 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/07 13:52:17 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 10:58:42 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+
 
 #include "ft_list.h"
 #include <stdio.h>

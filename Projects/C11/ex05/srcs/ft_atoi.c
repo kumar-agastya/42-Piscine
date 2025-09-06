@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <wcorrea-@student.42porto.com>    +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/11 20:25:34 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/02/18 12:45:19 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 10:54:53 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+
 
 int	ft_atoi(char *str)
 {

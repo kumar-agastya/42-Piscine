@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_util.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <wcorrea-@student.42.fr>          +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/11 21:39:52 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/12 00:06:16 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 11:06:15 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+
 
 #include "bsq.h"
 

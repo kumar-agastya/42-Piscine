@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_any.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/04 10:01:51 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/04 10:01:55 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 10:53:29 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-/* 
+
 #include <stdio.h>
 #include <stdlib.h>
 

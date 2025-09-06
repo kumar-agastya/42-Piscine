@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_list.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <wcorrea-@student.42.fr>          +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/04 17:53:33 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/04 18:09:40 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 10:58:10 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+
 
 #ifndef FT_LIST_H
 # define FT_LIST_H

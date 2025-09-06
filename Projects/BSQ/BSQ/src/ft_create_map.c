@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_create_map.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <wcorrea-@student.42.fr>          +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/11 13:35:23 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/12 00:05:57 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 11:05:54 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+
 
 #include "bsq.h"
 

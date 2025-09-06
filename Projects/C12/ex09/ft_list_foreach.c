@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_list_foreach.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: wcorrea- <wcorrea-@student.42.fr>          +#+  +:+       +#+        */
+/*   By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/03/04 15:39:02 by wcorrea-          #+#    #+#             */
-/*   Updated: 2023/03/07 14:01:41 by wcorrea-         ###   ########.fr       */
+/*   Created: 2025/09/06 10:58:15 by agastyakuma       #+#    #+#             */
+/*   Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+
 
 #include "ft_list.h"
 #include <stdio.h>

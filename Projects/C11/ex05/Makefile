@@ -3,12 +3,14 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: wcorrea- <wcorrea-@student.42porto.com>    +#+  +:+       +#+         #
+#    By: agastyakumar <agastyakumar@student.42.f    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2023/02/20 07:35:37 by wcorrea-          #+#    #+#              #
-#    Updated: 2023/02/20 10:18:42 by wcorrea-         ###   ########.fr        #
+#    Created: 2025/09/06 10:55:31 by agastyakuma       #+#    #+#              #
+#    Updated: 2025/09/06 11:10:55 by agastyakuma      ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
+
 
 NAME = do-op
 SRCS = srcs/ft_atoi.c srcs/ft_util.c srcs/ft_math.c srcs/main.c
